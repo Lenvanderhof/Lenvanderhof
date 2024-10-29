@@ -30,4 +30,5 @@
 * [YouTube](https://youtube.com/@Lenvanderhof)
 * [X/Twitter](https://twitter.com/Lenvanderhof)
 * [Pinterest](https://pinterest.com/Lenvanderhof)
+* [SoundCloud](https://soundcloud.com/Lenvanderhof)
 * [Snapchat](https://snapchat.com/add/lenvanderhof)
