@@ -7,7 +7,7 @@
 ## Me:
 
 1. Supporting, backing and sharing disruptive tech-centered solutions. ([Lenvanderhof.com](https://Lenvanderhof.com)).
-2. Busy building businesses from unique concepts & projects. ([LPH98.org](https://LPH98.org)).
+2. Busy building businesses from unique concepts & projects. 
 3. Investing in open source, smart, sharp, straight value. ([LPH98.ventures](https://LPH98.ventures)).
 
 ## Trigger Topics:
