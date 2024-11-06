@@ -26,9 +26,7 @@
 
 * [Instagram](http://Instagram.com/Lenvanderhof)
 * [LinkedIn](https://linkedin.com/in/Lenvanderhof/)
-* [TikTok](https://tiktok.com/@Lenvanderhof)
 * [YouTube](https://youtube.com/@Lenvanderhof)
-* [X/Twitter](https://twitter.com/Lenvanderhof)
+* [X.com (formerly Twitter)](https://twitter.com/Lenvanderhof)
 * [Pinterest](https://pinterest.com/Lenvanderhof)
 * [SoundCloud](https://soundcloud.com/Lenvanderhof)
-* [Snapchat](https://snapchat.com/add/lenvanderhof)
