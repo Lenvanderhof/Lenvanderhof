@@ -1,30 +1,25 @@
 # Len P. van der Hof (@Lenvanderhof)
 
-***⚡ Think big(ger).***
-
----
-
-## Me:
-
-1. Supporting, backing and sharing disruptive tech-centered solutions. ([Lenvanderhof.com](https://Lenvanderhof.com)).
-2. Busy building businesses from unique concepts & projects. 
-3. Investing in open source, smart, sharp, straight value. ([LPH98.ventures](https://LPH98.ventures)).
-
-## Trigger Topics:
-
-`Entrepreneurship`, `Psychology`, `Philosophy`, `Health` - and into GitHub mode: - `Linux` (Alpine & Arch..), `AI/ML` (Really?), `Big Data`, `Open Source`, `Internet of Things (IoT)`, `Automatization`, `Self-Hosting`, `APIs`, `Data Processing`, `Prompt Engineering`, `Virtualization`, `Deep Learning`, `Algorithms`, `Data Science`, `Data Visualization`, `DNS Resolution`, `AI Agents`, `HA Clusters`, `(Container) Orchestration`, `NLP`, `PKM`, `SDN`, and quite some more... 
+> ***⚡ Think big(ger).***
 
 
-<br>
+## I am..
 
-**Always open for [good] conversations. Feel free to [email me](mailto:Send@Len.email).**
+1. Supporting, backing and sharing disruptive tech-centered solutions.
+2. Busy building businesses from unique concepts & projects, pushing beyond standard. 
+3. Investing in open source, smart, sharp, straight value in various forms and ways.
 
-<br>
+
+## Some Trigger Topics:
+
+`Entrepreneurship`, `Psychology`, `Philosophy`, `Health`, `Linux` `Alpine Linux`, `AI-Driven`, `Big Data`, `Open Source`, `Internet of Things (IoT)`, `Automatization`, `Self-Hosting`, `APIs`, `Machine Learning`,`Data Processing`, `Prompt Engineering`, `Virtualization`, `Deep Learning`, `Algorithms`, `Data Science`, `Data Visualization`, `DNS Resolution`, `AI Agents`, `HA Clusters`, `(Container) Orchestration`, `NLP`, `User Experience (UX)`,  `Personal Knowledge Management (PKM)`, `Digital Transformation` `SDN`, `Predictive Analytics`, `Smart Home Automation` and quite some more... 
+
+*Always open for conversations about ideas, projects, and more. Feel free to [email me](mailto:Send@Len.email).*
 
 
 ## I'm here too:
 
-* [Instagram](http://Instagram.com/Lenvanderhof)
+* [Instagram](https://Instagram.com/Lenvanderhof)
 * [LinkedIn](https://linkedin.com/in/Lenvanderhof/)
 * [YouTube](https://youtube.com/@Lenvanderhof)
 * [X.com (formerly Twitter)](https://twitter.com/Lenvanderhof)
